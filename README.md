@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-**phatth47/phatth47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on OnPoint VN
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on onpointvn
+- 🌱 I’m currently learning Flutter, Swift
 - 💬 Ask me about ...
 - 📫 How to reach me: tranphat.dev@gmail.com
 
