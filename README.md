@@ -35,7 +35,9 @@
 <div>
   <img src="https://img.shields.io/badge/-Flutter-027DFD?style=for-the-badge&logo=flutter&logoColor=027DFD&labelColor=282828">
   <img src="https://img.shields.io/badge/-Dart-0553B1?style=for-the-badge&logo=dart&logoColor=0553B1&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React%20Native-61dbfb?style=for-the-badge&logo=react&logoColor=61dbfb&labelColor=282828">
   <img src="https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=F05138&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=7f52ff&labelColor=282828">
 </div>
 </p>
 
