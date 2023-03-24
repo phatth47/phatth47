@@ -16,10 +16,10 @@
 <br/>
 <br/>
 
-- 👋 Hi, I’m Phat aka Azkals
-- 💼 I'm a Mobile Developer at OnPointVN
+- 👋 Hi, I’m Phat aka VamoSs
+- 💼 I'm a Mobile Developer at OnPoint
 - 👯 I’m looking to collaborate on Mobile projects
-- 🌱 I’m currently learning Flutter, Swift
+- 🌱 I’m currently learning Flutter, React Native, Swift or Kotlin
 - 📫 How to reach me: tranphat.dev@gmail.com
 <!-- 
 <br/>
