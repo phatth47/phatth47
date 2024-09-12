@@ -17,7 +17,7 @@
 <br/>
 
 - 👋 Hi, I’m Phat aka VamoSs
-- 💼 I'm a Mobile Developer at FE CREDIT
+- 💼 I'm a Lead Mobile Engineer at FE CREDIT
 - 👯 I’m looking to collaborate on Mobile projects
 - 🌱 I’m currently learning Flutter, Golang, React Native, Swift or Kotlin
 - 📫 How to reach me: tranphat.dev@gmail.com
